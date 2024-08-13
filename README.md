@@ -20,7 +20,7 @@ HTML/CSS: For front-end design.
 Bootstrap: For responsive design.
 Installation
 Clone the repository:
-git clone https://github.com/San1011/OLuna-Clothing-Shop-with-jsp-Servlet.git
+git clone https://github.com/Sang1011/OLuna-Clothing-Shop-with-jsp-Servlet.git
 
 Import the project into your IDE (e.g., Netbean).
 Set up the MySQL database and update the database configuration in the project.
