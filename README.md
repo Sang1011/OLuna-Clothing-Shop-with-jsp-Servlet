@@ -24,6 +24,7 @@ git clone https://github.com/San1011/OLuna-Clothing-Shop-with-jsp-Servlet.git
 
 Import the project into your IDE (e.g., Netbean).
 Set up the MySQL database and update the database configuration in the project.
+(Download the jdbc4 and database at https://drive.google.com/drive/folders/1zOkvep_ka-g1reIy5Tw7BRr6beHI90NU?usp=sharing)
 Deploy the project on a web server (e.g., Apache Tomcat).
 Access the application via http://localhost:8080/Assigment_PRJ301.
 Usage
