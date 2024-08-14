@@ -1,5 +1,5 @@
 [OLuna Clothing Shop] (website with jsp Servlet)
-A website selling clothes written in JSP and Servlet - my assignment project from the subject PRJ301 at Campus FPT University HCM.
+A website selling clothes written in JSP and Servlet - my assignment project from the subject PRJ301 at Campus FPT University HCM. I got a 10 on my project from my teacher, Mr. Hoadnt. This project includes 4 extras: LoginGoogle, Recaptcha, Paging and SendEmail.
 
 Project Owner:
 Nguyễn Hoàng Tuệ Sang - Owner of this project.
