@@ -4,15 +4,16 @@ A website selling clothes written in JSP and Servlet - my assignment project fro
 Project Owner:
 Nguyễn Hoàng Tuệ Sang - Owner of this project.
 
-Project Description
+Project Description:
 OLuna Clothing Shop is a web application designed to provide a seamless online shopping experience for clothing. This project is developed using JSP and Servlet technologies, and it serves as an assignment for the PRJ301 course at FPT University HCM.
 
-Features
+Features:
 User Authentication: Secure login and registration for users.
 Product Management: Add, update, and delete products.
 Shopping Cart: Users can add products to their cart and proceed to checkout.
 Order Management: Track and manage user orders.
-Technologies Used
+
+Technologies Used:
 Java: Core programming language.
 JSP & Servlet: For dynamic web content.
 MySQL: Database management.
@@ -22,11 +23,13 @@ Installation
 Clone the repository:
 git clone https://github.com/Sang1011/OLuna-Clothing-Shop-with-jsp-Servlet.git
 
+How to use:
 Import the project into your IDE (e.g., Netbean).
 Set up the MySQL database and update the database configuration in the project.
 (Download the jdbc4 and database at https://drive.google.com/drive/folders/1zOkvep_ka-g1reIy5Tw7BRr6beHI90NU?usp=sharing)
 Deploy the project on a web server (e.g., Apache Tomcat).
 Access the application via http://localhost:8080/Assigment_PRJ301.
+
 Usage:
 Register a new user account or log in with existing credentials.
 Browse the product catalog and add items to your shopping cart.
