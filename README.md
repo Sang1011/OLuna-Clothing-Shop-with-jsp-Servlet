@@ -29,7 +29,7 @@ Set up the MySQL database and update the database configuration in the project.
 (Download the jdbc4 and database at https://drive.google.com/drive/folders/1zOkvep_ka-g1reIy5Tw7BRr6beHI90NU?usp=sharing)
 Deploy the project on a web server (e.g., Apache Tomcat).
 Access the application via http://localhost:8080/Assigment_PRJ301.
-To use all function of the project, You need to add your information at DBUtils.java, login.jsp, 
+To use all functions of the project, You need to add your information at DBUtils.java, login.jsp, Contants.java.
 
 Usage:
 Register a new user account or log in with existing credentials.
