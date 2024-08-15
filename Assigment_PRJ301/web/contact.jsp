@@ -63,7 +63,7 @@
                     <div class="container">
                         <div class="row d-flex align-items-center">
                             <div class="col-md-6 header-contact">
-                                <p>Let's talk! <strong>+84977064053</strong>
+                                <p>Let's talk! <strong>+84 999999999</strong>
                                 </p>
                             </div>
                             <div class="col-md-6 col-sm-12 user-items">
@@ -189,7 +189,7 @@
                                 <p>If you have any questions or requests for help, please contact us through the following ways or you can also send us a message via your email.</p>
                                 <ul class="list-unstyled list-icon">
                                     <li style="color: black;">
-                                        <i class="icon icon-phone"></i>+84 977064053
+                                        <i class="icon icon-phone"></i>+84 9999999999
                                     </li>
                                     <li>
                                         <a href="mailto:sang101174@gmail.com"><i class="icon icon-mail"></i>sang101174@gmail.com</a>
@@ -242,7 +242,7 @@
                                 <p>Do you have any questions or suggestions? <a href="#" class="email">Sang101174@gmail.com</a>
                                 </p>
                                 <p>Do you need assistance? Give us a call. <br>
-                                    <strong>+84 977064053</strong>
+                                    <strong>+84 999999999</strong>
                                 </p>
                             </div>
                         </div>
