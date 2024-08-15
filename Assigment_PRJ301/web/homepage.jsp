@@ -81,7 +81,7 @@
                     <div class="container">
                         <div class="row d-flex align-items-center">
                             <div class="col-md-6 header-contact">
-                                <p>Let's talk! <strong>+84977064053</strong>
+                                <p>Let's talk! <strong>+84999999999</strong>
                                 </p>
                             </div>
                             <div class="col-md-6 col-sm-12 user-items">
@@ -410,7 +410,7 @@
                                 <p>Do you have any questions or suggestions? <a href="#" class="email">Sang101174@gmail.com</a>
                                 </p>
                                 <p>Do you need assistance? Give us a call. <br>
-                                    <strong>+84 977064053</strong>
+                                    <strong>+84 999999999</strong>
                                 </p>
                             </div>
                         </div>
